@@ -9,7 +9,6 @@ phases:
         # install npm
         - npm install
         - npm i -D @types/react
-        - npm install --save-dev web-vitals
        
   build:
     commands:
