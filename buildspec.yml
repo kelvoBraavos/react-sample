@@ -22,4 +22,5 @@ artifacts:
     - public/**/*
     - src/**/*
     - package.json
+    - jsconfig.json
     - scripts/**/*
